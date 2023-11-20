@@ -1,0 +1,16 @@
+@import "./reset.css";
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
+
+/*
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: center;
+  width: 100vh;
+  height: 100vw;
+}
+
+*/
